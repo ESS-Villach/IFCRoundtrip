@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IfcImportSettings>
+  <Setting Type="IfcAnnotation" Import="true" />
+  <Setting Type="IfcProxy" Import="true" />
+</IfcImportSettings>

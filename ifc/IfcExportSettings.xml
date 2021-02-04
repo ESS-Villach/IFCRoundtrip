@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IfcExportSettings>
+  <Setting Type="AcDbLine" Export="true" />
+  <Setting Type="AcDbPolyline" Export="true" />
+  <Setting Type="AcDb3dPolyline" Export="true" />
+  <Setting Type="AcDb2dPolyline" Export="true" />
+  <Setting Type="AcDbArc" Export="true" />
+  <Setting Type="AcDbCircle" Export="true" />
+  <Setting Type="AcDbEllipse" Export="true" />
+  <Setting Type="AcDbText" Export="true" />
+  <Setting Type="AcDbSpline" Export="true" />
+  <Setting Type="AcDbPoint" Export="true" />
+  <Setting Type="AcDbMline" Export="true" />
+  <Setting Type="AcDbRay" Export="true" />
+  <Setting Type="AcDbHatch" Export="true" />
+  <Setting Type="AcDbBlockReference" Export="true" />
+  <Setting Type="AcDbRasterImage" Export="true" />
+  <Setting Type="AcDbMText" Export="true" />
+</IfcExportSettings>
